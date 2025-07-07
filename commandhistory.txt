@@ -1,0 +1,36 @@
+    1  sudo apt update
+    2  apt list --upgradable
+    3  apt list --upgradable -a
+    4  sudo apt update
+    5  sudo apt upgrade
+    6  vscodev.
+    7  vscode .
+    8  mkdir git-for-devops-learning
+    9  cd git-for-devops-learning/
+   10  print("hello sardhar") > testing.py
+   11  python --version
+   12  touch app.txt
+   13  hello sardhar > appt.txt
+   14  cat hello sardhar > app.txt
+   15  ls
+   16  cat app.txt
+   17  cat appt.txt
+   18  vim app.txt
+   19  cat app.txt
+   20  echo "this is sardhar" > app.txt
+   21  cat app.txt
+   22  git init
+   23  git status
+   24  git add app.xt
+   25  git add app.txt
+   26  git status
+   27  git commit -m "added lines to app"
+   28  git status
+   29  git rm --cached
+   30  rm appt.txt
+   31  git status
+   32  rm app.txt
+   33  ls
+   34  git restore app.txt
+   35  ls
+
