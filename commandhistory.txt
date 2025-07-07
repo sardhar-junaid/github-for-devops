@@ -33,4 +33,29 @@
    33  ls
    34  git restore app.txt
    35  ls
-
+   36  history
+   37  awk
+   38  awk {print $1,$2} history
+   39  awk '{print $1,$2}' history
+   40  history
+   41  vim commandhistory.txt
+   42  awk '/git/ {print $1,$2,$3}' commandhistory.txt
+   43  awk '/git/ {print $1,$2,$3}' commandhistory.txt > only-git-command.txt
+   44  ls
+   45  git remote add origin https://github.com/sardhar-junaid/github-for-devops.git
+   46  git remote -v
+   47  git push origin master
+   48  git remote set-url origin
+   49  git remote -v
+   50  git remote set-url origin https://sardhar-junaid:<pat>@github.com/sardhar-junaid/github-for-devops.git
+   51  git remote -v
+   52  git push origin master
+   53  git add .
+   54  git status
+   55  git commit -m "added two new files"
+   56  git status
+   57  clear
+   58  git status
+   59  git push origin master  
+   60  git push origin master
+   61  git push origin master
